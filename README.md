@@ -1,2 +1,2 @@
 # data
-point cloud data of data
+point cloud data of maize
