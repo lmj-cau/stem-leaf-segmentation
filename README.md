@@ -1,8 +1,9 @@
-# data
-point cloud data of maize
+## Data
 
-Download
+As part of our work, we introduce the Maize dataset to supplement the scarce public data.  
+The dataset can be downloaded from the following link:
 
-https://drive.google.com/drive/folders/1rUcicB7v_qr1zN0PTikgGqvcSkwk0k8f?usp=drive_link
-
-https://pan.baidu.com/s/1xtDoQi7qYQ-vh_WCyojDyQ?pwd=ryn3
+| Dataset | Drive | Size |
+|---------|--------------|------|
+| Maize   | [Google drive link]([https://docs.google.com/forms/d/e/1FAIpQLSf-XXJsTLaxhjt9Yj6P7dBl_dyrmK1TigCTkMPytzFntNSx9A/viewform?usp=dialog]) | approx. 3GB |
+|         | [Baidu drive link]([https://docs.google.com/forms/d/e/1FAIpQLSf-XXJsTLaxhjt9Yj6P7dBl_dyrmK1TigCTkMPytzFntNSx9A/viewform?usp=dialog]) | approx. 3GB |
